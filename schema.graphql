@@ -1,3 +1,14 @@
 type Query {
-    test: String
+    marvel_universe:String
+    characters:[Character]
+}
+
+type Character {
+    id:ID!
+    firstName:String
+    middleName:String
+    lastName:String
+    alias:String
+    nationality:String
+    affiliation:String
 }

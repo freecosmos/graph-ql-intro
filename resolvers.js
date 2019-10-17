@@ -1,4 +1,9 @@
+const db = require('./db')
 const Query = {
-    test: () => 'Test Success GrapgQL server is up and running !'
+    marvel_universe: () => {
+       return 'Welcome to the Marvel Universe!' 
+    },
+    characters:() => db.characters.list()
 }
+
 module.exports = {Query}

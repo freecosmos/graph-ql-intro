@@ -3,6 +3,6 @@ const { DataStore} = require('notarealdb');
 const store = new DataStore('./data');
 
 module.exports = {
-    students:store.collection('students'),
+    characters:store.collection('characters'),
     colleges:store.collection('colleges')
 };

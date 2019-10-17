@@ -1,0 +1,82 @@
+[
+    {
+      "id":"A0001",
+      "firstName":"Tony",
+      "middleName":"Edward",
+      "lastName":"Stark",
+      "alias":"Iron Man",
+      "affiliation":"Avengers"
+    },
+    {
+      "id":"A0002",
+      "firstName":"Steve",
+      "middleName":"",
+      "lastName":"Rogers",
+      "alias":"Captain America",
+      "affiliation":"Avengers"
+    },
+    {
+      "id":"A0003",
+      "firstName":"Thor",
+      "middleName":"",
+      "lastName":"Odinson",
+      "alias":"God of Thunder",
+      "affiliation":"Avengers"
+    },
+    {
+      "id":"A0004",
+      "firstName":"Peter",
+      "middleName":"Benjamin",
+      "lastName":"Parker",
+      "alias":"Spider-Man",
+      "affiliation":"Avengers"
+    },
+    {
+      "id":"A0005",
+      "firstName":"Robert",
+      "middleName":"Bruce",
+      "lastName":"Banner",
+      "alias":"Hulk",
+      "affiliation":"Avengers"
+    },
+    {
+      "id":"A0006",
+      "firstName":"Tony",
+      "middleName":"Edward",
+      "lastName":"Stark",
+      "alias":"Iron Man",
+      "affiliation":"Avengers"
+    },
+    {
+      "id":"A0007",
+      "firstName":"Tony",
+      "middleName":"Edward",
+      "lastName":"Stark",
+      "alias":"Iron Man",
+      "affiliation":"Avengers"
+    },
+    {
+      "id":"A0008",
+      "firstName":"Tony",
+      "middleName":"Edward",
+      "lastName":"Stark",
+      "alias":"Iron Man",
+      "affiliation":"Avengers"
+    },
+    {
+      "id":"A0009",
+      "firstName":"Tony",
+      "middleName":"Edward",
+      "lastName":"Stark",
+      "alias":"Iron Man",
+      "affiliation":"Avengers"
+    },
+    {
+      "id":"A0010",
+      "firstName":"Tony",
+      "middleName":"Edward",
+      "lastName":"Stark",
+      "alias":"Iron Man",
+      "affiliation":"Avengers"
+    } 
+]
