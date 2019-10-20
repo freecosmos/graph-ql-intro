@@ -41,42 +41,66 @@
     },
     {
       "id":"A0006",
-      "firstName":"Tony",
-      "middleName":"Edward",
-      "lastName":"Stark",
-      "alias":"Iron Man",
+      "firstName":"James",
+      "middleName":"Rupert",
+      "lastName":"Rhodes",
+      "alias":"War Machine",
       "affiliation":"Avengers"
     },
     {
       "id":"A0007",
-      "firstName":"Tony",
-      "middleName":"Edward",
-      "lastName":"Stark",
-      "alias":"Iron Man",
+      "firstName":"Natalia",
+      "middleName":"Alianovna",
+      "lastName":"Romanoff",
+      "alias":"Black Widow",
       "affiliation":"Avengers"
     },
     {
       "id":"A0008",
-      "firstName":"Tony",
-      "middleName":"Edward",
-      "lastName":"Stark",
-      "alias":"Iron Man",
+      "firstName":"Vision",
+      "middleName":"",
+      "lastName":"",
+      "alias":"Vision of Hope",
       "affiliation":"Avengers"
     },
     {
       "id":"A0009",
-      "firstName":"Tony",
-      "middleName":"Edward",
-      "lastName":"Stark",
-      "alias":"Iron Man",
+      "firstName":"Samuel",
+      "middleName":"Thomas",
+      "lastName":"Wilson",
+      "alias":"Falcon",
       "affiliation":"Avengers"
     },
     {
       "id":"A0010",
-      "firstName":"Tony",
-      "middleName":"Edward",
-      "lastName":"Stark",
-      "alias":"Iron Man",
+      "firstName":"Clinton",
+      "middleName":"Francis",
+      "lastName":"Barton",
+      "alias":"Hawkeye",
       "affiliation":"Avengers"
-    } 
+    },
+    {
+      "id":"A0011",
+      "firstName":"Wanda",
+      "middleName":"",
+      "lastName":"Maximoff",
+      "alias":"Scarlet Witch",
+      "affiliation":"Avengers"
+    },
+    {
+      "id":"A0012",
+      "firstName":"T'Challa",
+      "middleName":"",
+      "lastName":"",
+      "alias":"Black Panther",
+      "affiliation":"Avengers"
+    },
+    {
+      "id":"A0013",
+      "firstName":"Scott",
+      "middleName":"Edward Harris",
+      "lastName":"Lang",
+      "alias":"Ant-Man",
+      "affiliation":"Avengers"
+    }
 ]
