@@ -1,6 +1,7 @@
 type Query {
     marvel_universe:String
     characters:[Character]
+    studentById(id:ID!):Character
 }
 
 type Character {
@@ -10,5 +11,10 @@ type Character {
     lastName:String
     alias:String
     nationality:String
+    affiliation:String
+}
+
+type Affiliation {
+    id:ID!
     affiliation:String
 }

@@ -1,0 +1,49 @@
+[
+  {
+    "id": "age-101",
+    "name": "AMU",
+    "location": "Uttar Pradesh",
+    "rating":5.0
+  },
+  {
+    "id": "age-001",
+    "affiliation": "Avengers"
+  },
+  {
+    "id": "age-002",
+    "affiliation": "Avengers"
+  },
+  {
+    "id": "age-003",
+    "affiliation": "Avengers"
+  },
+  {
+    "id": "age-004",
+    "affiliation": "Avengers"
+  },
+  {
+    "id": "age-005",
+    "affiliation": "Avengers"
+  },
+  {
+    "id": "age-006",
+    "affiliation": "Avengers"
+  },
+  {
+    "id": "age-007",
+    "affiliation": "Avengers"
+  },
+  {
+    "id": "age-008",
+    "affiliation": "Avengers"
+  },
+  {
+    "id": "age-009",
+    "affiliation": "Avengers"
+  },
+  {
+    "id": "age-010",
+    "affiliation": "Avengers"
+  }
+]
+
